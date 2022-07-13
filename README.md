@@ -1,7 +1,7 @@
-Exercício concluído
-
 
 # Magic 8 Ball 🎱
+
+Exercício concluido do curso https://www.udemy.com/course/flutter-bootcamp-with-dart/
 
 ## Our Goal
 
