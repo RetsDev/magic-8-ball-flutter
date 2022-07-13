@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+Exercício concluído
 
 
 # Magic 8 Ball 🎱
